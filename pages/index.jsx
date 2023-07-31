@@ -62,7 +62,7 @@ export default function Home() {
           title="Creativity In <br/>Our Blood Line"
           subtitle="We deliver best problem solving solution for our client and provide finest finishing product in present and upcoming future."
           btnText="Get a Quote"
-          btnLink="/contact"
+          btnLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           scrollDownId="#service"
           socialLinksHeading="Follow Us"
           heroSocialLinks={heroSocialLinks}
